@@ -1,0 +1,44 @@
+/*CSS FILE*/
+
+div.login_wrapper{
+	width: 100%;
+	padding: 150px;
+	min-height: 100vh;
+	height: 100%;
+	background: #222;
+	
+}
+
+div.register_wrapper{
+	width: 100%;
+	padding: 5px;
+	min-height: 100vh;
+	background: #7B5BC3;
+	
+}
+
+div.login_holder {
+	margin: 0 auto;
+	max-width: 430px;
+	background: #fff;
+	padding: 10px 15px;
+}
+
+label {
+	color: #444;
+	font-size: 14px;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: 100;
+	margin-top: 10px;
+}
+
+.pe-7s-close-circle {
+	color: red;
+	font-size: 24px;
+}
+
+label.file_lbl {
+	color: #00ccff;
+}
