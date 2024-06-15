@@ -1,6 +1,6 @@
 <?php 
 	
-	$db = new mysqli("localhost", "root", "", "fors");
+	$db = new mysqli("localhost", "root", "", "mfors");
 	
 	if($db->connect_errno) {
 		
